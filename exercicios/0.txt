@@ -1,0 +1,6 @@
+1
+Tempo para Percorrer uma Distância
+0
+Um carro percorre uma distância de 100 km a uma velocidade constante de 50 km/h. Quanto tempo ele leva para percorrer essa distância?
+2
+horas

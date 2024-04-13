@@ -1,0 +1,6 @@
+3
+Alcance Máximo de um Projétil Lançado de um Penhasco
+0
+Um projétil é lançado de um penhasco com uma velocidade inicial de 30 m/s a um ângulo de 60 graus acima da horizontal. Determine o alcance máximo do projétil.
+79,533
+m/s

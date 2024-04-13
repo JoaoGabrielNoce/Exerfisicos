@@ -1,0 +1,6 @@
+2
+Tempo para uma Bola Alcançar o Solo Após Ser Lançada Horizontalmente
+1
+Uma bola é lançada horizontalmente de uma altura de 5 metros com uma velocidade de 10 m/s. Quanto tempo leva para a bola atingir o solo?
+0,5
+s

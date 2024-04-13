@@ -1,0 +1,6 @@
+3
+Força de Atrito Estático Máxima Atuando sobre um Bloco
+0
+Um bloco de 2 kg é empurrado horizontalmente sobre uma superfície áspera por uma força de 20 N. Se o coeficiente de atrito estático é 0,5, qual é a força de atrito estático máxima que atua sobre o bloco?
+9,8
+N
