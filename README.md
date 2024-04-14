@@ -13,7 +13,7 @@ O projeto desenvolvido usando a linguagem de programação Python, consiste em u
 Cadastro de novas questões no programa poderão ser feitas apenas pelos desenvolvedores.
 
 # Repositório do Projeto
-https://github.com/JoaoGabrielNoce/Exerfisicos
+https://drive.google.com/drive/folders/1P6R-OhkdZGinYt_oQgZWpERWL0rx8SPP?usp=sharing
 
 # Bibliotecas utilizadas
 - customtkinter
