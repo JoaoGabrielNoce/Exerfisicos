@@ -1,6 +1,10 @@
 3
 Potência Média de um Elevador Durante um Movimento
-0
+1
 Um elevador com uma carga de 500 kg sobe uma distância de 50 metros em 20 segundos. Qual é a potência média do elevador durante este movimento?
-12250
-W
+2 
+9800 W
+11000 W
+12250 W
+13000 W
+

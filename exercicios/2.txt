@@ -2,5 +2,8 @@
 Velocidade de um Objeto ao Cair de uma Altura
 0
 Um objeto cai de uma altura de 10 metros. Com que velocidade ele atinge o solo?
-14
-m/s
+1
+13 m/s
+14 m/s
+15 m/s
+16 m/s

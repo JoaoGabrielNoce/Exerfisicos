@@ -1,6 +1,9 @@
 2
 Aceleração Média de um Avião em Decolagem
-0
+1
 Um avião decola do repouso e atinge uma velocidade de 200 m/s em 20 segundos. Qual é a sua aceleração média durante esse tempo?
-10
-m/s
+2
+8 m/s² 
+9 m/s²
+10 m/s²
+11 m/s²

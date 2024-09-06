@@ -1,6 +1,9 @@
 3
 Componente Horizontal de uma Força Aplicada Sob um Ângulo
-1
+0
 Uma força de 100 N é aplicada a um objeto em um ângulo de 30 graus em relação à horizontal. Qual é a componente horizontal dessa força?
-86,6
-N
+1 
+70,7 N
+86,6 N
+100,4 N
+112,4 N

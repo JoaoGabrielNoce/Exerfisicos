@@ -2,5 +2,8 @@
 Tempo para um Carro Parar Completamente Durante a Freagem
 0
 Um carro freia uniformemente a uma taxa de -4 m/s². Se a velocidade inicial do carro é de 20 m/s, quanto tempo leva para parar completamente?
-5
-s
+0	 
+5 s
+7 s
+8 s
+10 s

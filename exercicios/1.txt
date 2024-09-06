@@ -2,5 +2,8 @@
 Altura Máxima de um Objeto Lançado Verticalmente
 1
 Um objeto é lançado verticalmente para cima a partir do solo com uma velocidade inicial de 20 m/s. Qual é a altura máxima que ele atinge?
-20,408
-m
+3 
+18.854 metros
+19.456 metros
+19.987 metros
+20.408 metros
